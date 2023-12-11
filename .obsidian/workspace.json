@@ -37,26 +37,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b15581a0a98f35ef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
+                "file": "마크다운(MarkDown).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -130,7 +118,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +134,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,9 +155,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
+              "state": {}
             }
           },
           {
@@ -181,9 +165,17 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "b15581a0a98f35ef",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -202,13 +194,14 @@
   },
   "active": "b15581a0a98f35ef",
   "lastOpenFiles": [
-    "ROS2 education roadmap/ROS2 란.md",
+    "마크다운(MarkDown).md",
+    "옵시디안/옵시디안(Obsidian).md",
+    "옵시디안/깃(git).md",
+    "옵시디안/제텔카스텐(zettelkästen).md",
     "README.md",
+    "ROS2 education roadmap/ROS2 란.md",
     "Obsidian Vault.zip",
     "conflict-files-obsidian-git.md",
-    "옵시디안/깃(git).md",
-    "옵시디안/옵시디안(Obsidian).md",
-    "옵시디안/제텔카스텐(zettelkästen).md",
     "자료구조/자료구조.canvas",
     "옵시디안",
     "ROS2 education roadmap/ROS2 education roadmap.md",
