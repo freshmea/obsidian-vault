@@ -1,0 +1,190 @@
+{
+  "main": {
+    "id": "e1343a6872b66960",
+    "type": "split",
+    "children": [
+      {
+        "id": "aeb9a4ae6cd6b94d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b289261f6313062d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "해쉬 테이블.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b199a3bbb84545e4",
+    "type": "split",
+    "children": [
+      {
+        "id": "81d95adee9095269",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4df8ce3014398b3b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f754fd65e9381a89",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "41d992af899bf7fb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "0a41b0205c4686b7",
+            "type": "leaf",
+            "state": {
+              "type": "mk-file-view",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "08222262a346e27e",
+    "type": "split",
+    "children": [
+      {
+        "id": "c284c304b3383c79",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c7c3e83662a03d5d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "해쉬 테이블.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "51d361cd2ce462a7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "해쉬 테이블.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "504acf05abec8878",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3305d9dc4d7d6d04",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "해쉬 테이블.md"
+              }
+            }
+          },
+          {
+            "id": "3d5166e5947b47d9",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 424.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "canvas:새 캔버스 만들기": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "switcher:퀵 스위처 열기": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "4df8ce3014398b3b",
+  "lastOpenFiles": [
+    "README.md",
+    "obsidian-vault/README.md",
+    "obsidian-vault",
+    "Tasks Plugin - Review and check your Statuses 2023-12-11 10-06-08.md",
+    "2023-12-11.md",
+    "무제 파일.canvas",
+    "Tasks 연습.md",
+    "Spaces/Home",
+    "Spaces",
+    "ROS2 education roadmap/자료구조.canvas",
+    "큐.md",
+    "해쉬 테이블.md",
+    "자료구조와 알고리즘.md",
+    "스택.md",
+    "Obsidian Vault.md",
+    "ROS2 education roadmap/ROS2 education roadmap.md",
+    "ROS2 education roadmap/ROS2 란.md",
+    "무제 파일 2.canvas",
+    "무제 파일 1.canvas",
+    "무제 파일 3.canvas",
+    "ROS2 education roadmap"
+  ]
+}
