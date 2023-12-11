@@ -7,8 +7,5 @@
 - 단축키를 등록해 놓았다. 
 	- commit all changes: Ctrl+Alt+s 
 	- push : Ctrol+Alt+p
-<<<<<<< HEAD
 * 컨플릭트가 생긴다면?
-=======
 - 브라우저에서 바꾸고 연동이 잘 되는지 확인 한다.
->>>>>>> origin/main
