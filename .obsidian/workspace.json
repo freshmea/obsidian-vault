@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "aeb9a4ae6cd6b94d",
+        "id": "a7a33eba7ba7ba8e",
         "type": "tabs",
         "children": [
           {
-            "id": "b289261f6313062d",
+            "id": "3820db8daee98f40",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "자료구조/자료구조.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "자료구조/자료구조.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "자료구조/자료구조.canvas"
               }
             }
           },
@@ -163,9 +159,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b289261f6313062d",
+  "active": "4df8ce3014398b3b",
   "lastOpenFiles": [
     "ROS2 education roadmap/ROS2 education roadmap.md",
+    "README.md",
     "ROS2 education roadmap/ROS2 란.md",
     "자료구조/스택.md",
     "자료구조/자료구조.canvas",
@@ -174,7 +171,6 @@
     "자료구조/해쉬 테이블.md",
     "Tasks 연습.md",
     "Obsidian Vault.md",
-    "README.md",
     "자료구조",
     "obsidian-vault/README.md",
     "obsidian-vault",
