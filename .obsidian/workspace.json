@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "옵시디안/깃(git).md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "옵시디안/깃(git).md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "옵시디안/깃(git).md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "옵시디안/깃(git).md"
+                "file": "README.md"
               }
             }
           },
@@ -178,10 +178,10 @@
   },
   "active": "46d24a2825378aa7",
   "lastOpenFiles": [
+    "옵시디안/깃(git).md",
     "Obsidian Vault.zip",
     "옵시디안/옵시디안(Obsidian).md",
     "옵시디안/제텔카스텐(zettelkästen).md",
-    "옵시디안/깃(git).md",
     "자료구조/자료구조.canvas",
     "옵시디안",
     "ROS2 education roadmap/ROS2 education roadmap.md",
