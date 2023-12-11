@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c73be1c0a818c6b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -176,8 +188,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "46d24a2825378aa7",
+  "active": "c73be1c0a818c6b7",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "README.md",
     "옵시디안/깃(git).md",
     "Obsidian Vault.zip",
     "옵시디안/옵시디안(Obsidian).md",
@@ -185,7 +199,6 @@
     "자료구조/자료구조.canvas",
     "옵시디안",
     "ROS2 education roadmap/ROS2 education roadmap.md",
-    "README.md",
     "ROS2 education roadmap/ROS2 란.md",
     "자료구조/스택.md",
     "자료구조/자료구조와 알고리즘.md",
