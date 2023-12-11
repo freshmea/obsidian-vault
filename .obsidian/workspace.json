@@ -11,11 +11,28 @@
             "id": "3820db8daee98f40",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "옵시디안/옵시디안(Obsidian).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "46d24a2825378aa7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "옵시디안/깃(git).md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -89,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "자료구조/자료구조.canvas",
+                "file": "옵시디안/깃(git).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "자료구조/자료구조.canvas",
+                "file": "옵시디안/깃(git).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "자료구조/자료구조.canvas"
+                "file": "옵시디안/깃(git).md"
               }
             }
           },
@@ -159,13 +176,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4df8ce3014398b3b",
+  "active": "46d24a2825378aa7",
   "lastOpenFiles": [
+    "옵시디안/옵시디안(Obsidian).md",
+    "옵시디안/제텔카스텐(zettelkästen).md",
+    "옵시디안/깃(git).md",
+    "자료구조/자료구조.canvas",
+    "옵시디안",
     "ROS2 education roadmap/ROS2 education roadmap.md",
     "README.md",
     "ROS2 education roadmap/ROS2 란.md",
     "자료구조/스택.md",
-    "자료구조/자료구조.canvas",
     "자료구조/자료구조와 알고리즘.md",
     "자료구조/큐.md",
     "자료구조/해쉬 테이블.md",
