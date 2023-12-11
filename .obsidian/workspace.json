@@ -25,26 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "973a400e2bef8630",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "마크다운(MarkDown).md",
+                "file": "나우로보틱스.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -118,6 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "나우로보틱스.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,6 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "나우로보틱스.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,10 +141,10 @@
             }
           },
           {
-            "id": "3305d9dc4d7d6d04",
+            "id": "973a400e2bef8630",
             "type": "leaf",
             "state": {
-              "type": "outline",
+              "type": "graph",
               "state": {}
             }
           },
@@ -170,16 +160,20 @@
             "id": "b15581a0a98f35ef",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "로봇/한국 - 로봇 회사.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 424.5
+    "width": 528.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -192,13 +186,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b15581a0a98f35ef",
+  "active": "46d24a2825378aa7",
   "lastOpenFiles": [
-    "마크다운(MarkDown).md",
+    "로봇/한국 - 로봇 회사.md",
+    "나우로보틱스.md",
+    "README.md",
+    "로봇",
+    "옵시디안/마크다운(MarkDown).md",
     "옵시디안/옵시디안(Obsidian).md",
     "옵시디안/깃(git).md",
     "옵시디안/제텔카스텐(zettelkästen).md",
-    "README.md",
     "ROS2 education roadmap/ROS2 란.md",
     "Obsidian Vault.zip",
     "conflict-files-obsidian-git.md",
