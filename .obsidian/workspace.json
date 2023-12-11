@@ -32,7 +32,19 @@
             }
           },
           {
-            "id": "c73be1c0a818c6b7",
+            "id": "973a400e2bef8630",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b15581a0a98f35ef",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -44,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -188,7 +200,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c73be1c0a818c6b7",
+  "active": "b15581a0a98f35ef",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "README.md",
