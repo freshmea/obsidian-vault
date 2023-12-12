@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3820db8daee98f40",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "옵시디안/옵시디안(Obsidian).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "46d24a2825378aa7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "나우로보틱스.md",
+                "file": "ROS2 education roadmap/ROS2 education roadmap.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -86,7 +73,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -106,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "나우로보틱스.md",
+                "file": "ROS2 education roadmap/ROS2 education roadmap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "나우로보틱스.md",
+                "file": "ROS2 education roadmap/ROS2 education roadmap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,6 +155,16 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "10b5bd29d0668dc7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "ROS2 education roadmap/ROS2 education roadmap.md"
+              }
+            }
           }
         ],
         "currentTab": 3
@@ -188,34 +186,40 @@
   },
   "active": "46d24a2825378aa7",
   "lastOpenFiles": [
-    "로봇/한국 - 로봇 회사.md",
-    "나우로보틱스.md",
-    "README.md",
-    "로봇",
-    "옵시디안/마크다운(MarkDown).md",
-    "옵시디안/옵시디안(Obsidian).md",
-    "옵시디안/깃(git).md",
-    "옵시디안/제텔카스텐(zettelkästen).md",
-    "ROS2 education roadmap/ROS2 란.md",
-    "Obsidian Vault.zip",
-    "conflict-files-obsidian-git.md",
-    "자료구조/자료구조.canvas",
-    "옵시디안",
-    "ROS2 education roadmap/ROS2 education roadmap.md",
-    "자료구조/스택.md",
-    "자료구조/자료구조와 알고리즘.md",
-    "자료구조/큐.md",
-    "자료구조/해쉬 테이블.md",
-    "Tasks 연습.md",
-    "Obsidian Vault.md",
-    "자료구조",
-    "obsidian-vault/README.md",
-    "obsidian-vault",
-    "Tasks Plugin - Review and check your Statuses 2023-12-11 10-06-08.md",
-    "2023-12-11.md",
-    "무제 파일.canvas",
     "Spaces/Home",
     "Spaces",
+    "ROS2 education roadmap/ROS2 education roadmap.md",
+    "로봇/고영테크놀러지.md",
+    "자료구조/스택.md",
+    "로봇/한국 - 로봇 회사.md",
+    "옵시디안/옵시디안(Obsidian).md",
+    "로봇/원더풀플랫폼.md",
+    "로봇/마음ai.md",
+    "로봇/클로봇.md",
+    "로봇/씨메스.md",
+    "로봇/빅웨이브로보틱스.md",
+    "로봇/하이젠RNM.md",
+    "로봇/웰콘시스템즈.md",
+    "로봇/유엔디.md",
+    "로봇/에이딘로보틱스.md",
+    "로봇/에스피지.md",
+    "로봇/에스비비테크.md",
+    "로봇/시냅스이미징.md",
+    "로봇/엔젤로보틱스.md",
+    "로봇/로보케어.md",
+    "로봇/티라로보틱스.md",
+    "로봇/트위니.md",
+    "로봇/큐렉소.md",
+    "로봇/코가로보틱스.md",
+    "로봇/엘지전자.md",
+    "로봇/엑스와이지.md",
+    "로봇",
+    "Obsidian Vault.zip",
+    "자료구조/자료구조.canvas",
+    "옵시디안",
+    "자료구조",
+    "obsidian-vault",
+    "무제 파일.canvas",
     "무제 파일 2.canvas",
     "무제 파일 1.canvas",
     "무제 파일 3.canvas",
