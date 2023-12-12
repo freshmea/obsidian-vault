@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ROS2 education roadmap/ROS2 education roadmap.md",
+                "file": "옵시디안/기본 설정.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,12 +73,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 288.5
   },
   "right": {
     "id": "08222262a346e27e",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ROS2 education roadmap/ROS2 education roadmap.md",
+                "file": "옵시디안/기본 설정.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ROS2 education roadmap/ROS2 education roadmap.md",
+                "file": "옵시디안/기본 설정.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ROS2 education roadmap/ROS2 education roadmap.md"
+                "file": "옵시디안/기본 설정.md"
               }
             }
           }
@@ -171,7 +170,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 528.5
+    "width": 484.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -186,13 +185,14 @@
   },
   "active": "46d24a2825378aa7",
   "lastOpenFiles": [
+    "옵시디안/옵시디안(Obsidian).md",
+    "옵시디안/기본 설정.md",
+    "ROS2 education roadmap/ROS2 education roadmap.md",
     "Spaces/Home",
     "Spaces",
-    "ROS2 education roadmap/ROS2 education roadmap.md",
     "로봇/고영테크놀러지.md",
     "자료구조/스택.md",
     "로봇/한국 - 로봇 회사.md",
-    "옵시디안/옵시디안(Obsidian).md",
     "로봇/원더풀플랫폼.md",
     "로봇/마음ai.md",
     "로봇/클로봇.md",

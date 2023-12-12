@@ -36,7 +36,8 @@
   "deleteFileOption": "system-trash",
   "expandedSpaces": [
     "/",
-    "//Spaces/Spaces/Home"
+    "//Spaces/Spaces/Home",
+    "//옵시디안"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
