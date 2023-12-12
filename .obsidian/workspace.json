@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "로봇/로보케어.md",
+                "file": "로봇/로보티즈.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "로봇/로보케어.md",
+                "file": "로봇/로보티즈.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "로봇/로보케어.md",
+                "file": "로봇/로보티즈.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "로봇/로보케어.md",
+                "file": "로봇/로보티즈.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -191,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "로봇/로보케어.md"
+                "file": "로봇/로보티즈.md"
               }
             }
           }
@@ -216,9 +216,10 @@
   },
   "active": "0cbca76bcc34a05d",
   "lastOpenFiles": [
+    "로봇/로보케어.md",
     "로봇/두산로보틱스.md",
-    "로봇/한국 - 로봇 회사.md",
     "로봇/뉴로메카.md",
+    "로봇/한국 - 로봇 회사.md",
     "로봇/고영테크놀러지.md",
     "로봇/나우로보틱스.md",
     "dailyNote/2023-12-12.md",
@@ -241,7 +242,6 @@
     "템플릿/위클리 템플릿.md",
     "템플릿/비전 보드 템플릿.md",
     "템플릿/메모 템플릿.md",
-    "Inbox/10분의 중요성.md",
     "dailyNote",
     "Inbox",
     "템플릿",
