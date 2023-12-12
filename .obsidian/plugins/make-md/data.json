@@ -37,7 +37,9 @@
   "expandedSpaces": [
     "/",
     "//Spaces/Spaces/Home",
-    "//옵시디안"
+    "//Spaces",
+    "//Spaces/Spaces/Home",
+    "//Spaces"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
