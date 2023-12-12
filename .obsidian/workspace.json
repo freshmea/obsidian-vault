@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ROS2 education roadmap/ROS2 education roadmap.md",
+                "file": "로봇/뉴로메카.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ROS2 education roadmap/ROS2 education roadmap.md",
+                "file": "로봇/뉴로메카.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ROS2 education roadmap/ROS2 education roadmap.md",
+                "file": "로봇/뉴로메카.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "ROS2 education roadmap/ROS2 education roadmap.md",
+                "file": "로봇/뉴로메카.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -191,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ROS2 education roadmap/ROS2 education roadmap.md"
+                "file": "로봇/뉴로메카.md"
               }
             }
           }
@@ -215,6 +215,15 @@
   },
   "active": "0cbca76bcc34a05d",
   "lastOpenFiles": [
+    "로봇/고영테크놀러지.md",
+    "로봇/나우로보틱스.md",
+    "dailyNote/2023-12-12.md",
+    "dailyNote/2023-12-13.md",
+    "템플릿/데일리 플래너 템플릿.md",
+    "dailyNote/2023-12-14.md",
+    "템플릿/새싹노트 템플릿.md",
+    "dailyNote/2023-12-11.md",
+    "ROS2 education roadmap/ROS2 education roadmap.md",
     "ROS2 education roadmap/ROS2 란.md",
     "옵시디안/제텔카스텐(zettelkästen).md",
     "옵시디안/옵시디안(Obsidian).md",
@@ -226,26 +235,17 @@
     "템플릿/test-templater.md",
     "템플릿/프로젝트 템플릿.md",
     "템플릿/위클리 템플릿.md",
-    "템플릿/새싹노트 템플릿.md",
-    "템플릿/데일리 플래너 템플릿.md",
     "템플릿/비전 보드 템플릿.md",
     "템플릿/메모 템플릿.md",
     "Inbox/10분의 중요성.md",
-    "dailyNote/2023-12-12.md",
     "무제 파일.md",
     "Vision Board.md",
     "Dashboard.md",
-    "2021-W44.md",
     "dailyNote",
     "Inbox",
     "템플릿",
-    "로봇/한국 - 로봇 회사.md",
-    "옵시디안/마크다운.md",
-    "화면구성.md",
-    "ROS2 education roadmap/ROS2 education roadmap.md",
     "Spaces/Home",
     "Spaces",
-    "로봇/고영테크놀러지.md",
     "로봇",
     "Obsidian Vault.zip",
     "자료구조/자료구조.canvas",
