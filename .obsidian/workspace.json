@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "옵시디안/마크다운(MarkDown).md",
+                "file": "옵시디안/웹 클리핑.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "옵시디안/마크다운(MarkDown).md",
+                "file": "옵시디안/웹 클리핑.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "옵시디안/마크다운(MarkDown).md",
+                "file": "옵시디안/웹 클리핑.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "옵시디안/마크다운(MarkDown).md",
+                "file": "옵시디안/웹 클리핑.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -191,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "옵시디안/마크다운(MarkDown).md"
+                "file": "옵시디안/웹 클리핑.md"
               }
             }
           }
@@ -216,6 +216,8 @@
   },
   "active": "0cbca76bcc34a05d",
   "lastOpenFiles": [
+    "옵시디안/마크다운(MarkDown).md",
+    "옵시디안/웹 클리핑.md",
     "첨부파일/profile.png",
     "옵시디안/링크.md",
     "옵시디안/옵시디안(Obsidian).md",
@@ -245,7 +247,6 @@
     "템플릿/데일리 플래너 템플릿.md",
     "dailyNote/2023-12-14.md",
     "dailyNote/2023-12-11.md",
-    "ROS2 education roadmap/ROS2 education roadmap.md",
     "dailyNote",
     "Inbox",
     "템플릿",
