@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "옵시디안/링크.md",
+                "file": "옵시디안/마크다운(MarkDown).md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "옵시디안/링크.md",
+                "file": "옵시디안/마크다운(MarkDown).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "옵시디안/링크.md",
+                "file": "옵시디안/마크다운(MarkDown).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "옵시디안/링크.md",
+                "file": "옵시디안/마크다운(MarkDown).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -191,11 +191,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "옵시디안/링크.md"
+                "file": "옵시디안/마크다운(MarkDown).md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -215,9 +216,14 @@
   },
   "active": "0cbca76bcc34a05d",
   "lastOpenFiles": [
+    "첨부파일/profile.png",
+    "옵시디안/링크.md",
+    "옵시디안/옵시디안(Obsidian).md",
+    "옵시디안/제텔카스텐(zettelkästen).md",
+    "첨부파일/스크린샷, 2022년 10월 14일 09시 45분 02초.mp4",
+    "첨부파일",
     "템플릿/메모 템플릿.md",
     "Inbox/미래링크.md",
-    "옵시디안/링크.md",
     "템플릿/test-templater.md",
     "Inbox/10분의 중요성.md",
     "템플릿/프로젝트 템플릿.md",
@@ -240,9 +246,6 @@
     "dailyNote/2023-12-14.md",
     "dailyNote/2023-12-11.md",
     "ROS2 education roadmap/ROS2 education roadmap.md",
-    "ROS2 education roadmap/ROS2 란.md",
-    "옵시디안/제텔카스텐(zettelkästen).md",
-    "옵시디안/옵시디안(Obsidian).md",
     "dailyNote",
     "Inbox",
     "템플릿",
@@ -250,8 +253,6 @@
     "Obsidian Vault.zip",
     "자료구조/자료구조.canvas",
     "옵시디안",
-    "자료구조",
-    "obsidian-vault",
     "무제 파일.canvas",
     "무제 파일 2.canvas",
     "무제 파일 1.canvas",
