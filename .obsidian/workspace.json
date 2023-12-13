@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "로봇/로보케어.md",
+                "file": "dailyNote/2023-12-13.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "로봇/로보케어.md",
+                "file": "dailyNote/2023-12-13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "로봇/로보케어.md",
+                "file": "dailyNote/2023-12-13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +146,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "로봇/로보케어.md",
+                "file": "dailyNote/2023-12-13.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -191,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "로봇/로보케어.md"
+                "file": "dailyNote/2023-12-13.md"
               }
             }
           }
@@ -215,12 +216,14 @@
   },
   "active": "0cbca76bcc34a05d",
   "lastOpenFiles": [
+    "로봇/로보케어.md",
+    "Spaces/Home",
+    "Spaces",
     "로봇/한국 - 로봇 회사.md",
     "로봇/고영테크놀러지.md",
     "로봇/나우로보틱스.md",
     "로봇/뉴로메카.md",
     "로봇/두산로보틱스.md",
-    "로봇/로보케어.md",
     "로봇/로보티즈.md",
     "dailyNote/2023-12-12.md",
     "dailyNote/2023-12-13.md",
@@ -240,12 +243,9 @@
     "템플릿/test-templater.md",
     "템플릿/프로젝트 템플릿.md",
     "템플릿/위클리 템플릿.md",
-    "템플릿/비전 보드 템플릿.md",
     "dailyNote",
     "Inbox",
     "템플릿",
-    "Spaces/Home",
-    "Spaces",
     "로봇",
     "Obsidian Vault.zip",
     "자료구조/자료구조.canvas",
