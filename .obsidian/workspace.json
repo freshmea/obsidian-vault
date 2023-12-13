@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "옵시디안/웹 클리핑.md",
+                "file": "옵시디안/단축키.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "옵시디안/웹 클리핑.md",
+                "file": "옵시디안/단축키.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "옵시디안/웹 클리핑.md",
+                "file": "옵시디안/단축키.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "옵시디안/웹 클리핑.md",
+                "file": "옵시디안/단축키.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -191,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "옵시디안/웹 클리핑.md"
+                "file": "옵시디안/단축키.md"
               }
             }
           }
@@ -216,16 +216,19 @@
   },
   "active": "0cbca76bcc34a05d",
   "lastOpenFiles": [
-    "옵시디안/마크다운(MarkDown).md",
+    "옵시디안/단축키.md",
+    "Inbox/미래링크.md",
+    "Inbox/무제 파일 1.md",
+    "Inbox/무제 파일.md",
     "옵시디안/웹 클리핑.md",
-    "첨부파일/profile.png",
     "옵시디안/링크.md",
+    "옵시디안/마크다운(MarkDown).md",
+    "첨부파일/profile.png",
     "옵시디안/옵시디안(Obsidian).md",
     "옵시디안/제텔카스텐(zettelkästen).md",
     "첨부파일/스크린샷, 2022년 10월 14일 09시 45분 02초.mp4",
     "첨부파일",
     "템플릿/메모 템플릿.md",
-    "Inbox/미래링크.md",
     "템플릿/test-templater.md",
     "Inbox/10분의 중요성.md",
     "템플릿/프로젝트 템플릿.md",
@@ -244,9 +247,6 @@
     "로봇/두산로보틱스.md",
     "로봇/로보티즈.md",
     "dailyNote/2023-12-12.md",
-    "템플릿/데일리 플래너 템플릿.md",
-    "dailyNote/2023-12-14.md",
-    "dailyNote/2023-12-11.md",
     "dailyNote",
     "Inbox",
     "템플릿",
