@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/자동차 ROS2 적용 전장 부품.md",
+                "file": "dailyNote/2023-12-14.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/자동차 ROS2 적용 전장 부품.md",
+                "file": "dailyNote/2023-12-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/자동차 ROS2 적용 전장 부품.md",
+                "file": "dailyNote/2023-12-14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Inbox/자동차 ROS2 적용 전장 부품.md",
+                "file": "dailyNote/2023-12-14.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -191,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/자동차 ROS2 적용 전장 부품.md"
+                "file": "dailyNote/2023-12-14.md"
               }
             }
           }
@@ -215,10 +215,12 @@
   },
   "active": "0cbca76bcc34a05d",
   "lastOpenFiles": [
+    "dailyNote/2023-12-13.md",
+    "dailyNote/2023-12-12.md",
+    "dailyNote/2023-12-11.md",
+    "Inbox/자동차 ROS2 적용 전장 부품.md",
     "옵시디안/마크다운(MarkDown).md",
     "옵시디안/링크.md",
-    "Inbox/자동차 ROS2 적용 전장 부품.md",
-    "dailyNote/2023-12-13.md",
     "템플릿/프로젝트 템플릿.md",
     "템플릿/test-templater.md",
     "템플릿/위클리 템플릿.md",
@@ -244,8 +246,6 @@
     "로봇/고영테크놀러지.md",
     "로봇/나우로보틱스.md",
     "로봇/뉴로메카.md",
-    "로봇/두산로보틱스.md",
-    "로봇/로보티즈.md",
     "dailyNote",
     "Inbox",
     "템플릿",
