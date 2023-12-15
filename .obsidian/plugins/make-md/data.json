@@ -42,7 +42,10 @@
     "//Spaces",
     "//Spaces",
     "//Spaces/Spaces/Home",
-    "//Spaces"
+    "//Spaces",
+    "//Inbox",
+    "//Inbox",
+    "//로봇"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
