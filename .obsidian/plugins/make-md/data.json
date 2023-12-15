@@ -55,6 +55,8 @@
   "hiddenExtensions": [
     ".mdb"
   ],
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Inbox",
   "inlineBacklinks": false,
   "inlineContext": true,
   "inlineBacklinksExpanded": false,
