@@ -11,8 +11,10 @@
             "id": "0cbca76bcc34a05d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "mk-space",
+              "state": {
+                "path": "Inbox"
+              }
             }
           }
         ]
@@ -162,7 +164,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.6372987299011719,
+                  "scale": 0.16495754685716113,
                   "close": true
                 }
               }
@@ -205,12 +207,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0a41b0205c4686b7",
+  "active": "7e3174d370c7c405",
   "lastOpenFiles": [
+    "Inbox/Inbox.md",
     "템플릿/새싹노트 템플릿.md",
     "옵시디안/플러그인.md",
     "옵시디안/옵시디안(Obsidian).md",
-    "Inbox/Inbox.md",
     "옵시디안/깃(git).md",
     "옵시디안/옵시디안 화면구성.md",
     "옵시디안/링크.md",
