@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-12-16.md",
+                "file": "dailyNote/2023-12-16.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-12-16.md",
+                "file": "dailyNote/2023-12-16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-12-16.md",
+                "file": "dailyNote/2023-12-16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2023-12-16.md",
+                "file": "dailyNote/2023-12-16.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -191,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-12-16.md"
+                "file": "dailyNote/2023-12-16.md"
               }
             }
           }
@@ -209,16 +209,17 @@
       "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
       "switcher:퀵 스위처 열기": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "templater-obsidian:Templater": false
     }
   },
   "active": "0cbca76bcc34a05d",
   "lastOpenFiles": [
+    "dailyNote/2023-12-15.md",
     "dailyNote/2023-12-16.md",
     "2023-12-16.md",
     "obsidian-vault.zip",
     "옵시디안.zip",
-    "dailyNote/2023-12-15.md",
     "dailyNote/2023-12-14.md",
     "dailyNote/2023-12-13.md",
     "dailyNote/2023-12-12.md",
