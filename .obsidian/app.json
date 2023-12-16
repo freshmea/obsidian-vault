@@ -1,4 +1,9 @@
 {
   "promptDelete": false,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "showLineNumber": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Inbox",
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "./"
 }

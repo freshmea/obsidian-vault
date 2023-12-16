@@ -37,8 +37,15 @@
   "expandedSpaces": [
     "/",
     "//Spaces/Spaces/Home",
+    "//Spaces",
     "//Spaces/Spaces/Home",
-    "//Spaces/Spaces/Home"
+    "//Spaces",
+    "//Spaces",
+    "//Spaces/Spaces/Home",
+    "//Spaces",
+    "//Inbox",
+    "//Inbox",
+    "//로봇"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
