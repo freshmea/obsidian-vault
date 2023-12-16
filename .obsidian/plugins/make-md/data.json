@@ -38,7 +38,10 @@
     "/",
     "//Spaces/Spaces/Home",
     "//Spaces/Spaces/Home",
-    "//Spaces/Spaces/Home"
+    "//Spaces/Spaces/Home",
+    "//Inbox",
+    "//자료구조",
+    "//자료구조"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
