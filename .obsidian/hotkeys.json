@@ -1,12 +1,4 @@
 {
-  "app:delete-file": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "D"
-    }
-  ],
   "obsidian-git:commit": [
     {
       "modifiers": [
@@ -14,15 +6,6 @@
         "Mod"
       ],
       "key": "S"
-    }
-  ],
-  "obsidian-git:push2": [
-    {
-      "modifiers": [
-        "Alt",
-        "Mod"
-      ],
-      "key": "P"
     }
   ],
   "obsidian-git:pull": [
@@ -34,66 +17,13 @@
       "key": "O"
     }
   ],
-  "app:go-back": [
+  "obsidian-git:push2": [
     {
       "modifiers": [
-        "Mod",
-        "Alt"
-      ],
-      "key": "ArrowLeft"
-    },
-    {
-      "modifiers": [
+        "Alt",
         "Mod"
       ],
-      "key": "["
-    }
-  ],
-  "app:go-forward": [
-    {
-      "modifiers": [
-        "Mod",
-        "Alt"
-      ],
-      "key": "ArrowRight"
-    },
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "]"
-    }
-  ],
-  "editor:toggle-source": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "R"
-    }
-  ],
-  "insert-template": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "T"
-    }
-  ],
-  "editor:swap-line-up": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "ArrowUp"
-    }
-  ],
-  "editor:swap-line-down": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "ArrowDown"
+      "key": "P"
     }
   ]
 }
