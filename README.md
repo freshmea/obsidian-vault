@@ -7,3 +7,4 @@
 - 단축키를 등록해 놓았다. 
 	- commit all changes: Ctrl+Alt+s 
 	- push : Ctrol+Alt+p
+	- pull : Ctrol+Alt+o
