@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dailyNote/2023-12-16.md",
+                "file": "2023-12-16.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2023-12-16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2023-12-16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -143,6 +145,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "2023-12-16.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -187,7 +190,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2023-12-16.md"
+              }
             }
           }
         ]
@@ -207,9 +212,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7e3174d370c7c405",
+  "active": "0cbca76bcc34a05d",
   "lastOpenFiles": [
     "dailyNote/2023-12-16.md",
+    "2023-12-16.md",
     "obsidian-vault.zip",
     "옵시디안.zip",
     "dailyNote/2023-12-15.md",
@@ -240,7 +246,6 @@
     "로봇/티라로보틱스.md",
     "로봇/트위니.md",
     "로봇/클로봇.md",
-    "로봇/큐렉소.md",
     "로봇",
     "Inbox",
     "dailyNote",
