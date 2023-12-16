@@ -11,8 +11,12 @@
             "id": "0cbca76bcc34a05d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "dailyNote/2023-12-12.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -69,12 +73,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 288.5
+    "width": 226.5
   },
   "right": {
     "id": "08222262a346e27e",
@@ -90,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "dailyNote/2023-12-12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "dailyNote/2023-12-12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,17 +131,9 @@
               "type": "graph",
               "state": {}
             }
-          },
-          {
-            "id": "6296f039dfb9556a",
-            "type": "leaf",
-            "state": {
-              "type": "git-history-view",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       },
       {
         "id": "4829e937213908b2",
@@ -148,6 +145,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "dailyNote/2023-12-12.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -192,7 +190,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "dailyNote/2023-12-12.md"
+              }
             }
           }
         ]
@@ -209,18 +209,19 @@
       "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
       "switcher:퀵 스위처 열기": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "templater-obsidian:Templater": false
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "0cbca76bcc34a05d",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "dailyNote/2023-12-11.md",
+    "템플릿/프로젝트 템플릿.md",
     "템플릿/위클리 템플릿.md",
-    "템플릿/새싹노트 템플릿.md",
     "템플릿/비전 보드 템플릿.md",
+    "템플릿/새싹노트 템플릿.md",
     "템플릿/메모 템플릿.md",
     "템플릿/데일리 플래너 템플릿.md",
+    "템플릿",
     "첨부파일/스크린샷, 2022년 10월 14일 09시 45분 02초.mp4",
     "첨부파일/profile.png",
     "첨부파일",
@@ -234,25 +235,23 @@
     "로봇/한국 - 로봇 회사.md",
     "로봇/하이젠RNM.md",
     "로봇/티로보틱스.md",
-    "로봇/트위니.md",
     "로봇/티라로보틱스.md",
+    "로봇/트위니.md",
     "로봇/클로봇.md",
     "로봇/큐렉소.md",
     "로봇/코가로보틱스.md",
-    "로봇/유엔디.md",
     "로봇/유진로봇.md",
-    "로봇/원더풀플랫폼.md",
+    "로봇/유엔디.md",
     "로봇/웰콘시스템즈.md",
-    "로봇/엘지전자.md",
+    "로봇/원더풀플랫폼.md",
     "로봇",
-    "dailyNote",
     "Inbox",
-    "템플릿",
+    "dailyNote",
+    "Spaces/Home",
+    "Spaces",
     "자료구조/자료구조.canvas",
     "자료구조",
     "Obsidian Vault.zip",
-    "Spaces/Home",
-    "Spaces",
     "무제 파일.canvas",
     "무제 파일 2.canvas",
     "무제 파일 1.canvas",

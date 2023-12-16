@@ -37,15 +37,8 @@
   "expandedSpaces": [
     "/",
     "//Spaces/Spaces/Home",
-    "//Spaces",
     "//Spaces/Spaces/Home",
-    "//Spaces",
-    "//Spaces",
-    "//Spaces/Spaces/Home",
-    "//Spaces",
-    "//Inbox",
-    "//Inbox",
-    "//로봇"
+    "//Spaces/Spaces/Home"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
@@ -58,8 +51,6 @@
   "hiddenExtensions": [
     ".mdb"
   ],
-  "newFileLocation": "folder",
-  "newFileFolderPath": "Inbox",
   "inlineBacklinks": false,
   "inlineContext": true,
   "inlineBacklinksExpanded": false,
