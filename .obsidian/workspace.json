@@ -4,59 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "a7a33eba7ba7ba8e",
+        "id": "89af4ee4039a6e07",
         "type": "tabs",
         "children": [
           {
-            "id": "3820db8daee98f40",
+            "id": "0cbca76bcc34a05d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "옵시디안/옵시디안(Obsidian).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "46d24a2825378aa7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "973a400e2bef8630",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b15581a0a98f35ef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -85,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#로봇",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -110,11 +69,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 288.5
   },
   "right": {
     "id": "08222262a346e27e",
@@ -130,14 +90,13 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -147,9 +106,73 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "3d5166e5947b47d9",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "7e3174d370c7c405",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "6296f039dfb9556a",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "4829e937213908b2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "991fdfb173bdcc8b",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 2,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": true,
+                  "showTags": true,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.6372987299011719,
+                  "close": true
+                }
               }
             }
           },
@@ -165,29 +188,18 @@
             }
           },
           {
-            "id": "3305d9dc4d7d6d04",
+            "id": "10b5bd29d0668dc7",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
-            }
-          },
-          {
-            "id": "3d5166e5947b47d9",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 424.5
+    "width": 537.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,38 +209,53 @@
       "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
       "switcher:퀵 스위처 열기": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "b15581a0a98f35ef",
+  "active": "0cbca76bcc34a05d",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
-    "README.md",
-    "옵시디안/깃(git).md",
-    "Obsidian Vault.zip",
-    "옵시디안/옵시디안(Obsidian).md",
-    "옵시디안/제텔카스텐(zettelkästen).md",
-    "자료구조/자료구조.canvas",
-    "옵시디안",
-    "ROS2 education roadmap/ROS2 education roadmap.md",
-    "ROS2 education roadmap/ROS2 란.md",
-    "자료구조/스택.md",
-    "자료구조/자료구조와 알고리즘.md",
     "자료구조/큐.md",
     "자료구조/해쉬 테이블.md",
-    "Tasks 연습.md",
-    "Obsidian Vault.md",
+    "자료구조/자료구조와 알고리즘.md",
+    "자료구조/자료구조.canvas",
+    "자료구조/스택.md",
     "자료구조",
-    "obsidian-vault/README.md",
-    "obsidian-vault",
-    "Tasks Plugin - Review and check your Statuses 2023-12-11 10-06-08.md",
-    "2023-12-11.md",
-    "무제 파일.canvas",
+    "dailyNote/2023-12-15.md",
+    "Obsidian Vault.zip",
+    "dailyNote/2023-12-16.md",
+    "dailyNote/2023-12-14.md",
+    "dailyNote/2023-12-13.md",
+    "로봇/StarWars Droid robot.md",
     "Spaces/Home",
     "Spaces",
+    "로봇/한국 - 로봇 회사.md",
+    "로봇/빅웨이브로보틱스.md",
+    "dailyNote/2023-12-12.md",
+    "dailyNote/2023-12-11.md",
+    "Inbox/자동차 ROS2 적용 전장 부품.md",
+    "옵시디안/마크다운(MarkDown).md",
+    "옵시디안/링크.md",
+    "템플릿/프로젝트 템플릿.md",
+    "템플릿/test-templater.md",
+    "템플릿/위클리 템플릿.md",
+    "템플릿/새싹노트 템플릿.md",
+    "템플릿/비전 보드 템플릿.md",
+    "템플릿/메모 템플릿.md",
+    "템플릿/데일리 플래너 템플릿.md",
+    "옵시디안/옵시디안(Obsidian).md",
+    "옵시디안/단축키.md",
+    "첨부파일/profile.png",
+    "첨부파일/스크린샷, 2022년 10월 14일 09시 45분 02초.mp4",
+    "첨부파일",
+    "dailyNote",
+    "Inbox",
+    "템플릿",
+    "로봇",
+    "무제 파일.canvas",
     "무제 파일 2.canvas",
     "무제 파일 1.canvas",
-    "무제 파일 3.canvas",
-    "ROS2 education roadmap"
+    "무제 파일 3.canvas"
   ]
 }
