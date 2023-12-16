@@ -132,9 +132,17 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "6296f039dfb9556a",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       },
       {
         "id": "4829e937213908b2",
@@ -214,7 +222,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7e3174d370c7c405",
+  "active": "0a41b0205c4686b7",
   "lastOpenFiles": [
     "dailyNote/2023-12-15.md",
     "dailyNote/2023-12-16.md",
