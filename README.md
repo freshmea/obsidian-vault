@@ -7,3 +7,4 @@
 - 단축키를 등록해 놓았다. 
 	- commit all changes: Ctrl+Alt+s 
 	- push : Ctrol+Alt+p
+- 이거 설마 안되는건 아니겠지?
