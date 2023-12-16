@@ -11,8 +11,12 @@
             "id": "0cbca76bcc34a05d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -69,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -90,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -140,6 +145,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "README.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -184,7 +190,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "README.md"
+              }
             }
           }
         ]
@@ -205,19 +213,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0a41b0205c4686b7",
+  "active": "0cbca76bcc34a05d",
   "lastOpenFiles": [
-    "템플릿/새싹노트 템플릿.md",
-    "옵시디안/플러그인.md",
-    "옵시디안/옵시디안(Obsidian).md",
-    "Inbox/Inbox.md",
-    "옵시디안/깃(git).md",
-    "옵시디안/옵시디안 화면구성.md",
-    "옵시디안/링크.md",
-    "옵시디안/단축키.md",
-    "obsidian-vault.md",
     "dailyNote/2023-12-16.md",
-    "README.md",
     "새 텍스트 문서.txt",
     "obsidian-vault.zip",
     "dailyNote/2023-12-15.md",
@@ -230,6 +228,7 @@
     "템플릿/프로젝트 템플릿.md",
     "템플릿/위클리 템플릿.md",
     "템플릿/비전 보드 템플릿.md",
+    "템플릿/새싹노트 템플릿.md",
     "템플릿/메모 템플릿.md",
     "템플릿/데일리 플래너 템플릿.md",
     "템플릿",
@@ -238,8 +237,16 @@
     "첨부파일",
     "옵시디안/템플릿.md",
     "옵시디안/웹 클리핑.md",
+    "옵시디안/옵시디안 화면구성.md",
     "옵시디안/마크다운(MarkDown).md",
+    "옵시디안/링크.md",
+    "옵시디안/단축키.md",
     "옵시디안/그래프 뷰.md",
+    "로봇/한국 - 로봇 회사.md",
+    "로봇/하이젠RNM.md",
+    "로봇/티로보틱스.md",
+    "로봇/티라로보틱스.md",
+    "로봇/트위니.md",
     "로봇",
     "Inbox",
     "dailyNote",

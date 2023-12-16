@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"280330d7ece67ce1","type":"file","file":"자료구조/자료구조와 알고리즘.md","x":-420,"y":-260,"width":400,"height":400},
+		{"id":"677d874b30c6b683","x":-345,"y":317,"width":250,"height":60,"type":"text","text":"선형"},
+		{"id":"3d44e077c47fbd8c","x":-20,"y":560,"width":400,"height":400,"type":"file","file":"자료구조/스택.md"},
+		{"id":"b15e314371c376fc","x":-820,"y":560,"width":400,"height":400,"type":"file","file":"자료구조/큐.md"}
+	],
+	"edges":[
+		{"id":"625a178595de2b67","fromNode":"280330d7ece67ce1","fromSide":"bottom","toNode":"677d874b30c6b683","toSide":"top"},
+		{"id":"8ea81020f52696c3","fromNode":"677d874b30c6b683","fromSide":"bottom","toNode":"3d44e077c47fbd8c","toSide":"top"},
+		{"id":"828913edb15d13c6","fromNode":"677d874b30c6b683","fromSide":"bottom","toNode":"b15e314371c376fc","toSide":"top"}
+	]
+}
