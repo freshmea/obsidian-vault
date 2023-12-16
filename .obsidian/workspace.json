@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dailyNote/2023-12-16.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dailyNote/2023-12-16.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dailyNote/2023-12-16.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "dailyNote/2023-12-16.md",
+                "file": "README.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -191,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dailyNote/2023-12-16.md"
+                "file": "README.md"
               }
             }
           }
@@ -215,10 +215,10 @@
   },
   "active": "0cbca76bcc34a05d",
   "lastOpenFiles": [
+    "dailyNote/2023-12-16.md",
     "새 텍스트 문서.txt",
     "obsidian-vault.zip",
     "dailyNote/2023-12-15.md",
-    "dailyNote/2023-12-16.md",
     "2023-12-16.md",
     "옵시디안.zip",
     "dailyNote/2023-12-14.md",
@@ -251,7 +251,6 @@
     "Inbox",
     "dailyNote",
     "Spaces/Home",
-    "Spaces",
     "자료구조/자료구조.canvas",
     "무제 파일.canvas",
     "무제 파일 2.canvas",
