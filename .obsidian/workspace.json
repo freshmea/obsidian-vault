@@ -93,7 +93,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dailyNote/2023-12-16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +109,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dailyNote/2023-12-16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -145,7 +143,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "dailyNote/2023-12-16.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -190,9 +187,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "dailyNote/2023-12-16.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -212,8 +207,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0cbca76bcc34a05d",
+  "active": "7e3174d370c7c405",
   "lastOpenFiles": [
+    "dailyNote/2023-12-16.md",
+    "obsidian-vault.zip",
+    "옵시디안.zip",
     "dailyNote/2023-12-15.md",
     "dailyNote/2023-12-14.md",
     "dailyNote/2023-12-13.md",
@@ -243,15 +241,12 @@
     "로봇/트위니.md",
     "로봇/클로봇.md",
     "로봇/큐렉소.md",
-    "로봇/코가로보틱스.md",
     "로봇",
     "Inbox",
     "dailyNote",
     "Spaces/Home",
     "Spaces",
     "자료구조/자료구조.canvas",
-    "자료구조",
-    "Obsidian Vault.zip",
     "무제 파일.canvas",
     "무제 파일 2.canvas",
     "무제 파일 1.canvas",
