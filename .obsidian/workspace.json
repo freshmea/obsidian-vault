@@ -11,15 +11,24 @@
             "id": "0cbca76bcc34a05d",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "9acf79b512f132f9",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "dailyNote/2023-12-15.md",
+                "file": "conflict-files-obsidian-git.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dailyNote/2023-12-15.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dailyNote/2023-12-15.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -154,7 +163,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "dailyNote/2023-12-15.md",
+                "file": "conflict-files-obsidian-git.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -200,7 +209,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dailyNote/2023-12-15.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -222,9 +231,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0a41b0205c4686b7",
+  "active": "9acf79b512f132f9",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "자료구조/큐.md",
+    "자료구조/해쉬 테이블.md",
+    "자료구조/자료구조와 알고리즘.md",
+    "자료구조/자료구조.canvas",
+    "자료구조/스택.md",
+    "자료구조",
     "dailyNote/2023-12-15.md",
+    "Obsidian Vault.zip",
     "dailyNote/2023-12-16.md",
     "dailyNote/2023-12-14.md",
     "dailyNote/2023-12-13.md",
@@ -247,21 +264,13 @@
     "템플릿/데일리 플래너 템플릿.md",
     "옵시디안/옵시디안(Obsidian).md",
     "옵시디안/단축키.md",
-    "Inbox/미래링크.md",
-    "Inbox/무제 파일 1.md",
-    "옵시디안/웹 클리핑.md",
     "첨부파일/profile.png",
-    "옵시디안/제텔카스텐(zettelkästen).md",
     "첨부파일/스크린샷, 2022년 10월 14일 09시 45분 02초.mp4",
     "첨부파일",
-    "Inbox/10분의 중요성.md",
     "dailyNote",
     "Inbox",
     "템플릿",
     "로봇",
-    "Obsidian Vault.zip",
-    "자료구조/자료구조.canvas",
-    "옵시디안",
     "무제 파일.canvas",
     "무제 파일 2.canvas",
     "무제 파일 1.canvas",
